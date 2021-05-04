@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
                    LICENSE
                  }
   s.author       = { 'Accengage' => 'help@accengage.com' }
-  s.source = { :http => 'https://github.com/megataps/ios-pod-specs/blob/master/Accengage.framework.zip' }
+  s.source = { :http => 'https://github.com/megataps/ios-pod-specs/raw/master/Accengage.framework.zip' }
 
   s.platform = :ios
   s.ios.deployment_target = '8.0'
